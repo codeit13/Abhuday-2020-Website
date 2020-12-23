@@ -25,7 +25,7 @@
     <!--header end-->
     <div class="box">
       <!--content -->
-      <article id="content">
+      <article id="content" style="text-align: center;">
         <div class="wrapper">
           <h2>Itinerary</h2>
           <div class="wrapper">
@@ -83,12 +83,12 @@
           <div class="wrapper">
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Tech-lead</span> <span class="color1">Sumit Chauhan</span><br>
+              <p class="pad_bot2"><span class="color2">Tech-lead</span> <span class="color1">Siddharth Arora</span><br>
                   </p>
             </div>
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img4.jpg" alt=""></figure>
-              <p><span class="color2">Tech-lead</span> <span class="color1">Siddharth Arora</span><br>
+              <p><span class="color2">Tech-lead</span> <span class="color1">Sumit Chauhan</span><br>
                  </p>
             </div>
             <div class="cols">
@@ -96,12 +96,28 @@
               <p class="pad_bot2"><span class="color2">Co-ordinator </span> <span class="color1">Kanishka Joshi</span><br>
                   </p>
             </div>
-            <div class="cols">
+          </div>
+          <div class="wrapper">
+            <div class="cols marg_right1" style="visibility: hidden;">
+              <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>
+              <p class="pad_bot2"><span class="color2"></span> <span class="color1">Test</span><br>
+                  </p>
+            </div>
+            <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Faculty Head </span> <span class="color1">Nitin Chhimwal</span><br>
+              <p><span class="color2">Tech-lead</span> <span class="color1">Nitin Chhimwal</span><br>
+                 </p>
+            </div>
+            <div class="cols" style="visibility: hidden;">
+              <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
+              <p class="pad_bot2"><span class="color2">Faculty Head</span> <span class="color1">Test</span><br>
                   </p>
             </div>
           </div>
+
+
+
+
         </div>
       </article>
       <!--content end-->

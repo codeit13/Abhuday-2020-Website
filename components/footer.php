@@ -26,8 +26,8 @@
         </ul>
       </div>
       <div class="phone">
-        <h4>Order Tickets</h4>
-        <p>Free Phone<span>8-800-123-NIGHT</span></p>
+        <h4> <a href="#">Order Tickets</a> </h4>
+        <p><span>Don't miss the Fun!!!</span></p>
       </div>
     </div>
     Copyright &copy;Abhuday @ <a href="//birlainstitute.co.in">BIAS Bhimtal</a> All Rights Reserved

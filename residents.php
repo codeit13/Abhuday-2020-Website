@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>nightclub | Residents</title>
+<title>Itinerary | Residents</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -27,7 +27,7 @@
       <!--content -->
       <article id="content">
         <div class="wrapper">
-          <h2>Night Club Residents</h2>
+          <h2>Itinerary</h2>
           <div class="wrapper">
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>

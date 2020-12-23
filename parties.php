@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>nightclub | Parties</title>
+  <title>Events/ Rules | Parties</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -29,7 +29,7 @@
         <!--content -->
         <article id="content">
           <div class="wrapper">
-            <h2>Upcoming Parties</h2>
+            <h2>Events/ Rules</h2>
             <div class="wrapper">
               <div class="cols marg_right1">
                 <figure class="pad_bot1"><a href="#"><img src="images/page2_img1.jpg" alt=""></a></figure>

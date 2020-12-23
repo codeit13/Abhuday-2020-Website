@@ -4,29 +4,25 @@
       <div class="icons">
         <h4>Connect With Us</h4>
         <ul id="icons">
-          <li><a href="#" class="normaltip"><img src="images/icon1.jpg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img src="images/icon2.jpg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img src="images/icon3.jpg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img src="images/icon4.jpg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img src="images/icon5.jpg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="24" style="background-color: red;" src="https://cdn.svgporn.com/logos/facebook.svg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="24" style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); ;" src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="34" style="background-color: red; border-radius: 10%;" src="https://cdn.svgporn.com/logos/youtube.svg" alt=""></a></li>
         </ul>
-        <!-- {%FOOTER_LINK} -->
       </div>
       <div class="info">
         <h4>About Us</h4>
         <ul>
-          <li><a href="#">Club Info</a></li>
-          <li><a href="#">Music</a></li>
-          <li><a href="#">DJ Sets</a></li>
-          <li><a href="#">News</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="residents.php">Co-ordinators</a></li>
+          <li><a href="gallery.php">Gallery</a></li>
         </ul>
       </div>
       <div class="info">
-        <h4>Join In</h4>
+        <h4>Join Us</h4>
         <ul>
-          <li><a href="#">Sign In</a></li>
-          <li><a href="#">Forums</a></li>
-          <li><a href="#">Promotions</a></li>
+          <li><a href="parties.php">Events/ Rules</a></li>
+          <li><a href="news.php">Itinary</a></li>
+          <li><a href="contacts.php">Contacts</a></li>
         </ul>
       </div>
       <div class="phone">
@@ -34,6 +30,6 @@
         <p>Free Phone<span>8-800-123-NIGHT</span></p>
       </div>
     </div>
-    Copyright &copy; <a href="#">Domain Name</a> All Rights Reserved | Design by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a>
+    Copyright &copy;Abhuday @ <a href="//birlainstitute.co.in">BIAS Bhimtal</a> All Rights Reserved
   </div>
 </footer>

@@ -32,74 +32,74 @@
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Sumanto Biswas</span><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore.</p>
+               </p>
               <figure class="pad_bot1"><img src="images/page4_img2.jpg" alt=""></figure>
               <p><span class="color2">Singing Co-ordinator</span> <span class="color1">Mohit Singh</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
             </div>
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img3.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator </span> <span class="color1">Harshit Pandey</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
               <figure class="pad_bot1"><img src="images/page4_img4.jpg" alt=""></figure>
               <p><span class="color2">Singing Co-ordinator </span> <span class="color1">Manvi Gupta</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Abishek Loshali</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
               <figure class="pad_bot1"><img src="images/page4_img6.jpg" alt=""></figure>
               <p><span class="color2">Instrumental Co-ordinator </span> <span class="color1">Prateek Sati</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
             </div>
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dramatics Co-ordinator</span> <span class="color1"> Chintan Dhiman</span><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore.</p>
+                  </p>
               <figure class="pad_bot1"><img src="images/page4_img2.jpg" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator</span> <span class="color1">Stuti Thakur</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
             </div>
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img3.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dramatics Co-ordinator </span> <span class="color1"> Anas Jamal</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
               <figure class="pad_bot1"><img src="images/page4_img4.jpg" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator </span> <span class="color1">Harshit Pathak</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Photography Co-ordinator </span> <span class="color1">Hardik Agarwal</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
               <figure class="pad_bot1"><img src="images/page4_img6.jpg" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator</span> <span class="color1">Falguni Bisht</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
             </div>
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img1.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Tech-lead</span> <span class="color1">Sumit Chauhan</span><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore.</p>
+                  </p>
             </div>
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img src="images/page4_img4.jpg" alt=""></figure>
               <p><span class="color2">Tech-lead</span> <span class="color1">Siddharth Arora</span><br>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                 </p>
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Co-ordinator </span> <span class="color1">Kanishka Joshi</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img src="images/page4_img5.jpg" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Faculty Head </span> <span class="color1">Nitin Chhimwal</span><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                  </p>
             </div>
           </div>
         </div>

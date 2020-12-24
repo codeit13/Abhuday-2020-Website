@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Abhuday | Co-ordinators</title>
+<title>Abhuday | Team</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -27,7 +27,25 @@
       <!--content -->
       <article id="content" style="text-align: center;">
         <div class="wrapper">
-          <h2>Itinerary</h2>
+          <h2>Team</h2>
+          <div class="wrapper">
+            <div class="cols marg_right1">
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/nitin_chhimwal.webp" alt=""></figure>
+              <p class="pad_bot2"><span class="color2">Faculty Head</span> <span class="color1">Nitin Chhimwal</span><br>
+                  </p>
+            </div>
+            <div class="cols marg_right1">
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/kanishka_joshi.webp" alt=""></figure>
+              <p><span class="color2">Head Co-ordinator</span> <span class="color1">Kanishka Joshi</span><br>
+                 </p>
+            </div>
+            <div class="cols">
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/sumit_chauhan.webp" alt=""></figure>
+              <p class="pad_bot2"><span class="color2">Technical Lead</span> <span class="color1">Sumit Chauhan</span><br>
+                  </p>
+            </div>
+          </div>
+
           <div class="wrapper">
             <div class="cols marg_right1">
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img1.webp" alt=""></figure>
@@ -82,30 +100,13 @@
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/sumit_chauhan.webp" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Technical Lead</span> <span class="color1">Sumit Chauhan</span><br>
-                  </p>
-            </div>
-            <div class="cols marg_right1">
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/siddharth_arora.webp" alt=""></figure>
-              <p><span class="color2">Web developer </span><span class="color1">Siddharth Arora</span><br>
-                 </p>
+              <p class="pad_bot2"><span class="color2">Web developer</span> <span class="color1">Siddharth Arora</span><br>
+                  </p>
             </div>
-            <div class="cols">
+            <div class="cols marg_right1">
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/neeraj_singh.webp" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">DJ Co-ordinator</span> <span class="color1">Neeraj Singh Thapa</span><br>
-                  </p>
-            </div>
-          </div>
-          <div class="wrapper">
-            <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/kanishka_joshi.webp" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Co-ordinator</span> <span class="color1">Kanishka Joshi</span><br>
-                  </p>
-            </div>
-            <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/nitin_chhimwal.webp" alt=""></figure>
-              <p><span class="color2">Faculty Head</span> <span class="color1">Nitin Chhimwal</span><br>
+              <p><span class="color2">DJ Co-ordinator </span><span class="color1">Neeraj Singh Thapa</span><br>
                  </p>
             </div>
             <div class="cols" style="visibility: hidden;">
@@ -114,9 +115,6 @@
                   </p>
             </div>
           </div>
-
-
-
 
         </div>
       </article>

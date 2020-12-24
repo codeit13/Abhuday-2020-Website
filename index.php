@@ -41,72 +41,6 @@
     #welcom>cufon:nth-child(1) {
       padding-left: 4px;
     }
-
-
-
-    .awesome {
-      font-size: 33px;
-      line-height: initial;
-      text-transform: uppercase;
-      -webkit-animation: colorchange 20s infinite alternate;
-    }
-
-    @-webkit-keyframes colorchange {
-      0% {
-
-        color: blue;
-      }
-
-      10% {
-
-        color: #8e44ad;
-      }
-
-      20% {
-
-        color: #1abc9c;
-      }
-
-      30% {
-
-        color: #d35400;
-      }
-
-      40% {
-
-        color: blue;
-      }
-
-      50% {
-
-        color: #34495e;
-      }
-
-      60% {
-
-        color: blue;
-      }
-
-      70% {
-
-        color: #2980b9;
-      }
-
-      80% {
-
-        color: #f1c40f;
-      }
-
-      90% {
-
-        color: #2980b9;
-      }
-
-      100% {
-
-        color: pink;
-      }
-    }
   </style>
 </head>
 
@@ -123,8 +57,9 @@
             <section class="col1">
               <h2 id="welcom">Abhyudya 2020</h2>
               <p class="color1">It’s your college, your fest</p>
-              <p class="pad_bot1">Cultural fests give a lot of social benefits the biggest being inter-college interaction. Students get a chance to medley with people from different walks of life. ... In outstation fests, students get chance to
-                explore the campus and city more after the event, eventually getting exposed to different culture.</p>
+              <p class="pad_bot1">
+                Abhuday is  the annual cultural fest of "Birla  Institute Of Applied Sciences , Bhimtal"  which is organized every year by the students of the college. The fest witnesses a variety of competitions like singing , dancing , skits , nukkad natak , photography , wall painting and what not . Though covid has curbed all the events but here we are...coming back with a bang presenting you all the first ever "Virtual Abhuday 2020". Get your participations done and don't miss the fun !!!
+              </p>
               <!-- <a href="#" class="link1">Read More</a> -->
             </section>
             <section class="col1 pad_left1">

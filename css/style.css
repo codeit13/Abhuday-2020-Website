@@ -116,7 +116,7 @@ header {
 #logo {
 	display:block;
 	text-indent:-9999px;
-	background:url(../images/logo.png) 0 0 no-repeat;
+	background:url(../images/abhuday-2k20.webp) 0 0 no-repeat;
 	width:273px;
 	height:86px;
 }
@@ -419,4 +419,71 @@ footer a:hover {
 	padding:7px 10px;
 	color:#474747;
 	font:14px Arial, Helvetica, sans-serif;
+}
+
+
+
+/* CUSTOM CSS */
+.awesome {
+	font-size: 33px;
+	line-height: initial;
+	text-transform: uppercase;
+	-webkit-animation: colorchange 20s infinite alternate;
+}
+
+@-webkit-keyframes colorchange {
+	0% {
+
+		color: blue;
+	}
+
+	10% {
+
+		color: #8e44ad;
+	}
+
+	20% {
+
+		color: #1abc9c;
+	}
+
+	30% {
+
+		color: #d35400;
+	}
+
+	40% {
+
+		color: blue;
+	}
+
+	50% {
+
+		color: #34495e;
+	}
+
+	60% {
+
+		color: blue;
+	}
+
+	70% {
+
+		color: #2980b9;
+	}
+
+	80% {
+
+		color: #f1c40f;
+	}
+
+	90% {
+
+		color: #2980b9;
+	}
+
+	100% {
+
+		color: pink;
+	}
 }

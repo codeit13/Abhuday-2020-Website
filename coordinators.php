@@ -46,7 +46,7 @@
                  </p>
             </div>
             <div class="cols">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img5.webp" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/abhishek-loshali.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Abishek Loshali</span><br>
                   </p>
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/prateek_sati.webp" alt=""></figure>

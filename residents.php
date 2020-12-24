@@ -93,14 +93,14 @@
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Co-ordinator </span> <span class="color1">Kanishka Joshi</span><br>
+              <p class="pad_bot2"><span class="color2">DJ Co-ordinator</span> <span class="color1">Neeraj Singh Thapa</span><br>
                   </p>
             </div>
           </div>
           <div class="wrapper">
-            <div class="cols marg_right1" style="visibility: hidden;">
+            <div class="cols marg_right1">
               <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img1.jpg" alt=""></figure>
-              <p class="pad_bot2"><span class="color2"></span> <span class="color1">Test</span><br>
+              <p class="pad_bot2"><span class="color2">Co-ordinator</span> <span class="color1">Kanishka Joshi</span><br>
                   </p>
             </div>
             <div class="cols marg_right1">
@@ -109,8 +109,8 @@
                  </p>
             </div>
             <div class="cols" style="visibility: hidden;">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Faculty Head</span> <span class="color1">Test</span><br>
+              <figure class="pad_bot1"><img width="260" height="260" src="" alt=""></figure>
+              <p class="pad_bot2"><span class="color2"></span> <span class="color1"></span><br>
                   </p>
             </div>
           </div>

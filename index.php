@@ -16,10 +16,98 @@
   <script src="js/jquery.easing.1.3.js"></script>
   <script src="js/jquery.mousewheel.js"></script>
   <script src="js/atooltip.jquery.js"></script>
+  <link rel="stylesheet" href="css/glide.css" type="text/css">
+  <script src="js/glider.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
 <script src="js/html5.js"></script>
 <link rel="stylesheet" href="css/ie.css" type="text/css" media="all">
 <![endif]-->
+
+  <style media="screen">
+    #gallery1>ul>li:nth-child(3)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(4)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(5)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(6)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(7)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(8)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(9)>span>cufon>canvas,
+    #gallery1>ul>li:nth-child(10)>span>cufon>canvas {
+      width: 90px !important;
+      height: 35px !important;
+      top: 2px !important;
+      left: 16px !important;
+    }
+
+    #welcom>cufon:nth-child(1) {
+      padding-left: 4px;
+    }
+
+
+
+    .awesome {
+      font-size: 33px;
+      line-height: initial;
+      text-transform: uppercase;
+      -webkit-animation: colorchange 20s infinite alternate;
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+
+        color: blue;
+      }
+
+      10% {
+
+        color: #8e44ad;
+      }
+
+      20% {
+
+        color: #1abc9c;
+      }
+
+      30% {
+
+        color: #d35400;
+      }
+
+      40% {
+
+        color: blue;
+      }
+
+      50% {
+
+        color: #34495e;
+      }
+
+      60% {
+
+        color: blue;
+      }
+
+      70% {
+
+        color: #2980b9;
+      }
+
+      80% {
+
+        color: #f1c40f;
+      }
+
+      90% {
+
+        color: #2980b9;
+      }
+
+      100% {
+
+        color: pink;
+      }
+    }
+  </style>
 </head>
 
 <body id="page1">
@@ -33,46 +121,183 @@
         <article id="content">
           <div class="wrapper pad_bot1">
             <section class="col1">
-              <h2 id="welcom">Welcome to Abhyudya 2020</h2>
-              <p class="color1">Night Club is one of free website templates created by TemplateMonster.com team. This website template is optimized for 1024X768 screen resolution. It is also XHTML &amp; CSS valid.</p>
-              <p class="pad_bot1">This Night Club Template goes with two packages – with PSD source files and without them. PSD source files are available for free for the registered members of Templates.com. The basic package (without PSD source) is
-                available for anyone without registration.</p>
+              <h2 id="welcom">Abhyudya 2020</h2>
+              <p class="color1">It’s your college, your fest</p>
+              <p class="pad_bot1">Cultural fests give a lot of social benefits the biggest being inter-college interaction. Students get a chance to medley with people from different walks of life. ... In outstation fests, students get chance to
+                explore the campus and city more after the event, eventually getting exposed to different culture.</p>
               <!-- <a href="#" class="link1">Read More</a> -->
             </section>
             <section class="col1 pad_left1">
               <h2>Latest Events</h2>
               <div id="gallery1">
                 <ul>
-                  <li> <span class="dropcap_1">15:30<span>29 Dec</span></span>
-                    <p><span class="color1">Lorem ipsum dolor sit amet</span><br>
+                  <li> <span class="dropcap_1">09:30<span>29 Dec</span></span>
+                    <p><span class="color1">Alankar</span><br>
                       adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-                      <a href="#" class="link1">View Details</a></p>
+                      <a href="#" class="link1">Register Here</a></p>
                   </li>
-                  <li> <span class="dropcap_1">26<span>august</span></span>
-                    <p><span class="color1">Ut enim ad minim veniam nostrud</span><br>
+
+                  <li> <span class="dropcap_1">10:15<span>29 Dec</span></span>
+                    <p><span class="color1">Escape</span><br>
                       Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">View Details</a></p>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">12:15<span>29 Dec</span></span>
+                    <p><span class="color1">Feel the Beat</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">14:30<span>29 Dec</span></span>
+                    <p><span class="color1">Hikayat</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">15:00<span>29 Dec</span></span>
+                    <p><span class="color1">Literature Quiz</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">10:30<span>30 Dec</span></span>
+                    <p><span class="color1">Nirvana</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">11:00<span>30 Dec</span></span>
+                    <p><span class="color1">Plot Twist</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">12:00<span>30 Dec</span></span>
+                    <p><span class="color1">Virtual DJ</span><br>
+                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+                      <a href="#" class="link1">Register Here</a></p>
                   </li>
                 </ul>
               </div>
               <a href="#" class="next"></a> <a href="#" class="prev"></a>
             </section>
           </div>
-          <div class="wrapper">
-            <h2>Next Party</h2>
-            <div class="wrapper">
-              <figure class="left marg_right1"><a href="#"><img src="images/banner1.jpg" alt=""></a></figure>
-              <h3>Best RNB from Europe</h3>
-              <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
-              <ul class="list1 pad_bot1">
-                <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
-              </ul>
-              <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+
+
+
+          <div class="glider-contain">
+            <div class="glider">
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/alankaar.webp" alt=""></a></figure>
+                <h3>Alankaar</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/escape.webp" alt=""></a></figure>
+                <h3>Escape</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/feel-the-beat.webp" alt=""></a></figure>
+                <h3>Feel the Beat</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/hikayat.webp" alt=""></a></figure>
+                <h3>Hikayat</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/literature-quiz.webp" alt=""></a></figure>
+                <h3>Literature Quiz</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/nirvana.webp" alt=""></a></figure>
+                <h3>Nirvana</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/plot-twist.webp" alt=""></a></figure>
+                <h3>Plot Twist</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/virtual-dj.webp" alt=""></a></figure>
+                <h3>Virtual DJ</h3>
+                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
+                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
+                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
+                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                </ul>
+                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
             </div>
+
+            <button aria-label="Previous" class="glider-prev">«</button>
+            <button aria-label="Next" class="glider-next">»</button>
+            <div role="tablist" class="dots"></div>
           </div>
+
         </article>
         <!--content end-->
         <!--footer -->
@@ -95,6 +320,21 @@
         easing: 'easeOutCirc'
       });
       Cufon.now();
+
+
+      window.addEventListener('load', function() {
+        new Glider(document.querySelector('.glider'), {
+          slidesToShow: 1,
+          dots: '#dots',
+          draggable: true,
+          slidesToScroll: 'auto',
+          arrows: {
+            prev: '.glider-prev',
+            next: '.glider-next'
+          }
+        });
+      })
+
     })
   </script>
 </body>

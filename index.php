@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Abhyudya</title>
+  <title>Abhuday</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -55,7 +55,7 @@
         <article id="content">
           <div class="wrapper pad_bot1">
             <section class="col1">
-              <h2 id="welcom">Abhyudya 2020</h2>
+              <h2 id="welcom">Abhuday 2020</h2>
               <p class="color1">It’s your college, your fest</p>
               <p class="pad_bot1">
                 Abhuday is  the annual cultural fest of "Birla  Institute Of Applied Sciences , Bhimtal"  which is organized every year by the students of the college. The fest witnesses a variety of competitions like singing , dancing , skits , nukkad natak , photography , wall painting and what not . Though covid has curbed all the events but here we are...coming back with a bang presenting you all the first ever "Virtual Abhuday 2020". Get your participations done and don't miss the fun !!!

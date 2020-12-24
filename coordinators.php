@@ -30,81 +30,81 @@
           <h2>Itinerary</h2>
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img1.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img1.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Sumanto Biswas</span><br>
                </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img2.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/mohit_singh.webp" alt=""></figure>
               <p><span class="color2">Singing Co-ordinator</span> <span class="color1">Mohit Singh</span><br>
                  </p>
             </div>
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img3.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/harshit_pandey.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator </span> <span class="color1">Harshit Pandey</span><br>
                  </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img4.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/manvi_gupta.webp" alt=""></figure>
               <p><span class="color2">Singing Co-ordinator </span> <span class="color1">Manvi Gupta</span><br>
                  </p>
             </div>
             <div class="cols">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img5.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Abishek Loshali</span><br>
                   </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img6.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/prateek_sati.webp" alt=""></figure>
               <p><span class="color2">Instrumental Co-ordinator </span> <span class="color1">Prateek Sati</span><br>
                   </p>
             </div>
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img1.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/chintan_dhiman.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dramatics Co-ordinator</span> <span class="color1"> Chintan Dhiman</span><br>
                   </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img2.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/stuti_thakur.webp" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator</span> <span class="color1">Stuti Thakur</span><br>
                  </p>
             </div>
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img3.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/anas_jamal.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dramatics Co-ordinator </span> <span class="color1"> Anas Jamal</span><br>
                  </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img4.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/harshit_pathak.webp" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator </span> <span class="color1">Harshit Pathak</span><br>
                  </p>
             </div>
             <div class="cols">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/hardik_agarwal.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Photography Co-ordinator </span> <span class="color1">Hardik Agarwal</span><br>
                   </p>
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img6.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/falguni_bisht.webp" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator</span> <span class="color1">Falguni Bisht</span><br>
                   </p>
             </div>
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img4.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/sumit_chauhan.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Technical Lead</span> <span class="color1">Sumit Chauhan</span><br>
                   </p>
             </div>
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img1.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img1.webp" alt=""></figure>
               <p><span class="color2">Web developer </span><span class="color1">Siddharth Arora</span><br>
                  </p>
             </div>
             <div class="cols">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/neeraj_singh.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">DJ Co-ordinator</span> <span class="color1">Neeraj Singh Thapa</span><br>
                   </p>
             </div>
           </div>
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img1.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/kanishka_joshi.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Co-ordinator</span> <span class="color1">Kanishka Joshi</span><br>
                   </p>
             </div>
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/page4_img5.jpg" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/nitin_chhimwal.webp" alt=""></figure>
               <p><span class="color2">Faculty Head</span> <span class="color1">Nitin Chhimwal</span><br>
                  </p>
             </div>

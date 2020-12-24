@@ -87,7 +87,7 @@
                   </p>
             </div>
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img1.webp" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/siddharth_arora.webp" alt=""></figure>
               <p><span class="color2">Web developer </span><span class="color1">Siddharth Arora</span><br>
                  </p>
             </div>

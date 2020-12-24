@@ -55,7 +55,7 @@
                 <!-- <figure><a href="#"><img width="260" src="images/events/hikayat.webp" alt=""></a></figure> -->
               </div>
               <div class="cols">
-                <!-- <figure class="pad_bot1"><a href="#"><img width="260" src="images/events/literature-quiz.webp" alt=""></a></figure> -->
+                <figure class="pad_bot1"><a href="#"><img width="260" src="images/events/shutter-up.webp" alt=""></a></figure>
                 <!-- <figure><a href="#"><img width="260" src="images/events/nirvana.webp" alt=""></a></figure> -->
               </div>
             </div>

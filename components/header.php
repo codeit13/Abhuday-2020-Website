@@ -9,5 +9,6 @@
       <li <?php echo ($_SERVER['REQUEST_URI'] == '/contacts.php') ? 'class="active"' : ''?>><a href="contacts.php">Contacts</a></li>
     </ul>
   </nav>
-  <h1><a href="index.php" id="logo">Abhuday</a></h1>
+  <h1 style="float: left;"><a href="index.php" id="logo">Abhuday</a></h1>
+  <h1><p class="awesome" style="text-align: center;"> Registrations end on 27th December at 8:00 P.M </p></h1>
 </header>

@@ -69,7 +69,7 @@
               <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link2">Register Now</a>
             </div>
 
-            <h2><strong>05:30 PM 30 Dec 2020 </strong>Nirvana</h2>
+            <h2><strong>05:30 PM 29 Dec 2020 </strong>Nirvana</h2>
             <div class="wrapper">
               <figure class="left marg_right1"><img width="190" src="images/events/nirvana.webp" alt=""></figure>
               <p class="color1 pad_bot1">
@@ -94,7 +94,7 @@
               <a target="_blank" href="https://forms.gle/CvEj7Ro3B8MhbYFn9" class="link2">Register Now</a>
             </div>
 
-            <h2><strong>02:00 AM 30 Dec 2020 </strong>Alankar</h2>
+            <h2><strong>02:00 PM 30 Dec 2020 </strong>Alankar</h2>
             <div class="wrapper pad_bot1">
               <figure class="left marg_right1"><img width="190" src="images/events/alankaar.webp" alt=""></figure>
               <p class="color1 pad_bot1">Songs are something that we all enjoy in the course of our lives. Whether it’s in the shower, your car, or your room, people love to sing.Music is one of the most calming and soothing things if you let it be. 

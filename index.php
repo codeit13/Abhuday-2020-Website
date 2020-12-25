@@ -2,7 +2,13 @@
 <html lang="en">
 
 <head>
-  <title>Abhuday</title>
+  <title>Abhuday 2020</title>
+
+  <meta property="og:title" content="Abhuday 2020" />
+  <meta property="og:type" content="video.movie" />
+  <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
+  <meta property="og:image" content="images/abhuday-2k20.webp" />
+
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">

@@ -48,7 +48,7 @@
 
           <div class="wrapper">
             <div class="cols marg_right1">
-              <figure class="pad_bot1"><img width="260" height="260" src="images/people/page4_img1.webp" alt=""></figure>
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/sumanto_biswas.webp" alt=""></figure>
               <p class="pad_bot2"><span class="color2">Dance Co-ordinator</span> <span class="color1">Sumanto Biswas</span><br>
                </p>
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/mohit_singh.webp" alt=""></figure>
@@ -109,9 +109,9 @@
               <p><span class="color2">DJ Co-ordinator </span><span class="color1">Neeraj Singh Thapa</span><br>
                  </p>
             </div>
-            <div class="cols" style="visibility: hidden;">
-              <figure class="pad_bot1"><img width="260" height="260" src="" alt=""></figure>
-              <p class="pad_bot2"><span class="color2"></span> <span class="color1"></span><br>
+            <div class="cols">
+              <figure class="pad_bot1"><img width="260" height="260" src="images/people/aman_bahadur.webp" alt=""></figure>
+              <p class="pad_bot2"><span class="color2">DJ Co-ordinator</span> <span class="color1">Aman Bahadur</span><br>
                   </p>
             </div>
           </div>

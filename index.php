@@ -58,65 +58,70 @@
               <h2 id="welcom">Abhuday 2020</h2>
               <p class="color1">It’s your college, your fest</p>
               <p class="pad_bot1">
-                Abhuday is  the annual cultural fest of "Birla  Institute Of Applied Sciences , Bhimtal"  which is organized every year by the students of the college. The fest witnesses a variety of competitions like singing , dancing , skits , nukkad natak , photography , wall painting and what not . Though covid has curbed all the events but here we are...coming back with a bang presenting you all the first ever "Virtual Abhuday 2020". Get your participations done and don't miss the fun !!!
+                Abhyuday is BIAS’ annual cultural festival that serves as a gathering spot for a diverse audience of creative individuals looking to unleash their artistic aptitude. In Abhdyuday, one may lose themselves in a multitude of competitions
+                they can take part in, ranging from singing, dancing, acting to photography, painting, writing and so on.
+                <br>
+                Even Covid has failed to keep the heat of Abhdyuday down. We understand the gravity of the situation but our spirits refuse to stay put. Thus, Abhyuday will be held completely online for the year 2020. Don’t let your college fest hype
+                die down yet! Get yourself registered and hop in!
               </p>
-              <!-- <a href="#" class="link1">Read More</a> -->
+              <!-- <a target="_blank" href="#" class="link1">Read More</a> -->
             </section>
             <section class="col1 pad_left1">
-              <h2>Latest Events</h2>
+              <h2>Registration Desk</h2>
               <div id="gallery1">
                 <ul>
                   <li> <span class="dropcap_1">09:30<span>29 Dec</span></span>
                     <p><span class="color1">Alankar</span><br>
-                      adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      Alankar, where the soothing voice of our contestants will cherish your souls.<br>
+                      <a target="_blank" href="https://forms.gle/dcTrw6CmtibcWkQk7" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">10:15<span>29 Dec</span></span>
-                    <p><span class="color1">Escape</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                    <p><span class="color1">How to Get Away With a Murder</span><br>
+                      You'll be given a crime scene with you as the criminal. Device an escape plan and win. <br>
+                      <a target="_blank" href="https://forms.gle/mp6E8fsFqw2oYEma6" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">12:15<span>29 Dec</span></span>
                     <p><span class="color1">Feel the Beat</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      ABHYUDAY presents FEET THE BEAT - inter-college dance competition.<br>
+                      <a target="_blank" href="https://forms.gle/CvEj7Ro3B8MhbYFn9" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">14:30<span>29 Dec</span></span>
                     <p><span class="color1">Hikayat</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      So here we are with our event HIKAYAT where the people can show thier hidden talents. <br>
+                      <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">15:00<span>29 Dec</span></span>
                     <p><span class="color1">Literature Quiz</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". <br>
+                      <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">10:30<span>30 Dec</span></span>
                     <p><span class="color1">Nirvana</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      We welcome you all to "Nirvana" the solo instrumental music competition.<br>
+                      <a target="_blank" href="https://forms.gle/rvhTu7W7zsUzDHss5" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">11:00<span>30 Dec</span></span>
                     <p><span class="color1">Plot Twist</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      Abhyuday presents PLOT TWIST, an exciting event. <br>
+                      <a target="_blank" href="https://forms.gle/VJTHVvL6iS3PyH8v8" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">15:00<span>30 Dec</span></span>
+                    <p><span class="color1">Shutter Up</span><br>
+                      Get Ready and start collecting your images because you Definitely don't want to miss this. <br>
+                      <a target="_blank" href="https://forms.gle/YAFwf82yv15m4Rni6" class="link1">Register Now</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">12:00<span>30 Dec</span></span>
                     <p><span class="color1">Virtual DJ</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
-                  </li>
-                  <li> <span class="dropcap_1">15:00<span>30 Dec</span></span>
-                    <p><span class="color1">Shutter Up</span><br>
-                      Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-                      <a href="#" class="link1">Register Here</a></p>
+                      <span>Unleash the madness with online virtual DJ.</span><br>
+                      <a style="visibility: hidden;" href="#" class="link1">Register Now</a></p>
                   </li>
                 </ul>
               </div>
@@ -129,120 +134,107 @@
           <div class="glider-contain">
             <div class="glider">
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/alankaar.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/alankaar.webp" alt=""></a></figure>
                 <h3>Alankaar</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">Songs are something that we all enjoy in the course of our lives. Whether it’s in the shower, your car, or your room, people love to sing.Music is one of the most calming and soothing things if you let it be. 
+
+                  So We at Abhyudaya 2020 welcome you all To Alankar, an inter college singing competition where the soothing voice of our contestants will cherish your souls and will make you sing along them.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/dcTrw6CmtibcWkQk7">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/escape.webp" alt=""></a></figure>
-                <h3>Escape</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/escape.webp" alt=""></a></figure>
+                <h3>How to Get Away With a Murder</h3>
+                <p class="pad_bot1">In the heat of the moment you have commited a crime and you need to escape without getting caught.
+                  <br>
+                  So abhuday presents the event "How to get away with murder" .In this event you will be given a crime scene and it will be you who would have commited the crime. You will need to device an escape plan.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/mp6E8fsFqw2oYEma6">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/feel-the-beat.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/feel-the-beat.webp" alt=""></a></figure>
                 <h3>Feel the Beat</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">Well said !! .Consciousness expresses itself through creation.
+                  Dance is not defined in ways, you just have to feel it and make your soul and that very bit of your glorious build move.
+                  <br>
+                  So ABHYUDAY presents FEET THE BEAT - inter-college dance competition where the irresistible dancing sensations will make you thump to their beats. The stupendous moves and jhatkas will make you want more and more!
+                  Put on your souls and shoes, on your way into the world of incredible dance performances!</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/CvEj7Ro3B8MhbYFn9">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/hikayat.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/hikayat.webp" alt=""></a></figure>
                 <h3>Hikayat</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">Drama is a written work that tells a story through action and speech and is acted out. Drama promotes communication skills, teamwork, dialogue, negotiation, socialization. It stimulates the imagination and
+                  creativity,it develops a better understanding of human behaviour and empathy with situations that might seem distant.
+                  <br>
+                  So here we are with our event HIKAYAT where the people can communicate thier hidden talents with some amazing ideas and scripts of their own.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/literature-quiz.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/literature-quiz.webp" alt=""></a></figure>
                 <h3>Literature Quiz</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">You might have read the books, watched the series. Let's see if you can answer the twisted questions related to them to their authors.
+                  <br>
+                  So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". Start your registrations now.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/nirvana.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/nirvana.webp" alt=""></a></figure>
                 <h3>Nirvana</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">The essence of instrumental music lays in the fact that one is able to express in tones that what one is unable to say in words. Instruments bring out your inner thoughts or your own visuals to the sound without
+                  the need of lyrics dictating what you feel.
+                  <br>
+                  So we welcome you all to "Nirvana" the solo instrumental music competition.Brush up your skills and get ready to rock and roll.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/rvhTu7W7zsUzDHss5">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/plot-twist.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/plot-twist.webp" alt=""></a></figure>
                 <h3>Plot Twist</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">Do you think there could have been a better ending to these wonderful classics? If yes then here's a chance to bring out that hidden writer in yourself and win attractive prizes.
+                  <br>
+                  Abhyuday presents PLOT TWIST for all such people who think that they could have given a better ending to various classics.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/VJTHVvL6iS3PyH8v8">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
               </div>
 
               <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/virtual-dj.webp" alt=""></a></figure>
-                <h3>Virtual DJ</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
-                <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
-                </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
-              </div>
-
-              <div class="wrapper">
-                <figure class="left marg_right1"><a href="#"><img width="260" height="292" src="images/events/shutter-up.webp" alt=""></a></figure>
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/shutter-up.webp" alt=""></a></figure>
                 <h3>Shutter Up</h3>
-                <p class="pad_bot1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo:</p>
+                <p class="pad_bot1">B.I.A.S. Photo Society Welcomes you all to one of a kind online fest coming your way very soon.
+                  We invite photographers of all abilities to communicate their visual narratives through their stunning and well-crafted photographs. We will be having a plethora of competitions catered to every genre. Even if you don't want to
+                  participate we will be having tutorials helping you understand the nitty-gritty of some crucial concepts in super easy fun ways.
+                  <br>
+                  Get Ready and start collecting your images because you Definitely don't want to miss this.
+                  Follow us on our Instagram page to keep yourself updated. <a href="https://www.instagram.com/biasphotosociety/">[BIASPHOTOSOCIETY]</a> </p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem ullam</a></li>
-                  <li><a href="#">Quis autem vel eum iure reprehenderit qui in voluptate</a></li>
-                  <li><a href="#">Velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum</a></li>
-                  <li><a href="#">Fugiat quo voluptas nulla pariatur lorem ipsum dolor sit amet</a></li>
+                  <li><a target="_blank" href="https://forms.gle/YAFwf82yv15m4Rni6">Register Now</a></li>
                 </ul>
-                <p>Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate voluptatem quia voluptas sit aspernatur.</p>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/virtual-dj.webp" alt=""></a></figure>
+                <h3>Virtual DJ</h3>
+                <p class="pad_bot1">Unleash the madness with online virtual DJ</p>
+                <ul class="list1 pad_bot1">
+                  <li><a href="#"></a></li>
+                </ul>
               </div>
             </div>
 

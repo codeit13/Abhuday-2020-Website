@@ -91,7 +91,7 @@
             </div>
             <div class="cols">
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/hardik_agarwal.webp" alt=""></figure>
-              <p class="pad_bot2"><span class="color2">Photography Co-ordinator </span> <span class="color1">Hardik Agarwal</span><br>
+              <p class="pad_bot2"><span class="color2">Photography Co-ordinator </span> <span class="color1">Hardik Agrawal</span><br>
                   </p>
               <figure class="pad_bot1"><img width="260" height="260" src="images/people/falguni_bisht.webp" alt=""></figure>
               <p><span class="color2">Sahitya Co-ordinator</span> <span class="color1">Falguni Bisht</span><br>

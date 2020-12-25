@@ -134,7 +134,7 @@
                   <li> <span class="dropcap_1">20:00<span>30 Dec</span></span>
                     <p><span class="color1">Virtual DJ</span><br>
                       <span>Unleash the madness with online virtual DJ.</span><br>
-                      <a style="visibility: hidden;" href="#" class="link1">Register Now</a></p>
+                      <a href="https://forms.gle/smeko6ZDUpbUpwUr7" class="link1">Give Song Suggestions</a></p>
                   </li>
                 </ul>
               </div>
@@ -246,7 +246,7 @@
                 <h3>Virtual DJ</h3>
                 <p class="pad_bot1">Unleash the madness with online virtual DJ</p>
                 <ul class="list1 pad_bot1">
-                  <li><a href="#"></a></li>
+                  <li><a href="https://forms.gle/smeko6ZDUpbUpwUr7">Give Song Suggestions</a></li>
                 </ul>
               </div>
             </div>

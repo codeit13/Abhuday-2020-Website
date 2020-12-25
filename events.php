@@ -7,7 +7,7 @@
   <meta property="og:type" content="video.movie" />
   <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
   <meta property="og:image" content="images/abhuday-2k20.webp" />
-  
+
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -41,13 +41,12 @@
                 <figure><a href="pdf/GET_AWAY_WITH_MURDER_RULES.pdf" target=_blank><img width="260" src="images/events/escape.webp" alt=""></a></figure>
               </div>
               <div class="cols marg_right1">
-                <figure class="pad_bot1"><a href="pdf/FEEL_THE_BEAT_RULES.pdf" target=_
-                blank><img width="260" src="images/events/feel-the-beat.webp" alt=""></a></figure>
+                <figure class="pad_bot1"><a href="pdf/FEEL_THE_BEAT_RULES.pdf" target=_blank><img width="260" src="images/events/feel-the-beat.webp" alt=""></a></figure>
                 <figure><a href="pdf/HIKAYAT_RULES.pdf" target=_blank><img width="260" src="images/events/hikayat.webp" alt=""></a></figure>
               </div>
               <div class="cols">
                 <figure class="pad_bot1"><a href="pdf/LITERATURE_QUIZ_RULES.pdf" target=_blank><img width="260" src="images/events/literature-quiz.webp" alt=""></a></figure>
-                <figure><a href="pdf/NIRVANA_RULES.pdf"target=_blank><img width="260" src="images/events/nirvana.webp" alt=""></a></figure>
+                <figure><a href="pdf/NIRVANA_RULES.pdf" target=_blank><img width="260" src="images/events/nirvana.webp" alt=""></a></figure>
               </div>
             </div>
             <br>
@@ -57,7 +56,7 @@
                 <!-- <figure><a href="#"><img width="260" src="images/events/escape.webp" alt=""></a></figure> -->
               </div>
               <div class="cols marg_right1">
-                <figure class="pad_bot1"><a href="#"><img width="260" src="images/events/virtual-dj.webp" alt=""></a></figure>
+                <figure class="pad_bot1"><a href="https://forms.gle/smeko6ZDUpbUpwUr7"><img width="260" src="images/events/virtual-dj.webp" alt=""></a></figure>
                 <!-- <figure><a href="#"><img width="260" src="images/events/hikayat.webp" alt=""></a></figure> -->
               </div>
               <div class="cols">

@@ -7,7 +7,7 @@
   <meta property="og:type" content="video.movie" />
   <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
   <meta property="og:image" content="images/abhuday-2k20.webp" />
-  
+
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -122,7 +122,7 @@
                 Unleash the madness with online virtual DJ
               </p>
 
-              <!-- <a target="_blank" href="#" class="link2">Register Now</a> -->
+              <a target="_blank" href="https://forms.gle/smeko6ZDUpbUpwUr7" class="link2">Give Song Suggestions</a>
             </div>
 
           </div>

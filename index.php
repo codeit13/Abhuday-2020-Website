@@ -86,7 +86,7 @@
                   <li> <span class="dropcap_1">14:00<span>29 Dec</span></span>
                     <p><span class="color1">Literature Quiz</span><br>
                       So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". <br>
-                      <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
+                      <a target="_blank" href="https://forms.gle/ypG3WYgmtybu9Wjg8" class="link1">Register Here</a></p>
                   </li>
 
                   <li> <span class="dropcap_1">16:00<span>29 Dec</span></span>
@@ -194,7 +194,7 @@
                   <br>
                   So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". Start your registrations now.</p>
                 <ul class="list1 pad_bot1">
-                  <li><a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6">Register Now</a></li>
+                  <li><a target="_blank" href="https://forms.gle/ypG3WYgmtybu9Wjg8">Register Now</a></li>
                 </ul>
               </div>
 

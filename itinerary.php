@@ -49,7 +49,7 @@
                   So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". Start your registrations now.
               </p>
 
-              <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link2">Register Now</a>
+              <a target="_blank" href="https://forms.gle/ypG3WYgmtybu9Wjg8" class="link2">Register Now</a>
             </div>
 
             <h2><strong>04:00 PM 29 Dec 2020 </strong> Hikayat</h2>

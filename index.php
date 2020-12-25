@@ -30,12 +30,18 @@
     #gallery1>ul>li:nth-child(6)>span>cufon>canvas,
     #gallery1>ul>li:nth-child(7)>span>cufon>canvas,
     #gallery1>ul>li:nth-child(8)>span>cufon>canvas,
-    #gallery1>ul>li:nth-child(9)>span>cufon>canvas,
-    #gallery1>ul>li:nth-child(10)>span>cufon>canvas {
+    #gallery1>ul>li:nth-child(9)>span>cufon>canvas {
       width: 90px !important;
       height: 35px !important;
       top: 2px !important;
       left: 16px !important;
+    }
+
+    #gallery1 > ul > li:nth-child(10) > span > cufon > canvas {
+      width: 85px !important;
+      height: 47px !important;
+      top: -6px !important;
+      left: 5px !important;
     }
 
     #welcom>cufon:nth-child(1) {
@@ -70,55 +76,56 @@
               <h2>Registration Desk</h2>
               <div id="gallery1">
                 <ul>
-                  <li> <span class="dropcap_1">09:30<span>29 Dec</span></span>
-                    <p><span class="color1">Alankar</span><br>
-                      Alankar, where the soothing voice of our contestants will cherish your souls.<br>
-                      <a target="_blank" href="https://forms.gle/dcTrw6CmtibcWkQk7" class="link1">Register Here</a></p>
-                  </li>
 
-                  <li> <span class="dropcap_1">10:15<span>29 Dec</span></span>
+                  <li> <span class="dropcap_1">12:00<span>29 Dec</span></span>
                     <p><span class="color1">How to Get Away With a Murder</span><br>
                       You'll be given a crime scene with you as the criminal. Device an escape plan and win. <br>
                       <a target="_blank" href="https://forms.gle/mp6E8fsFqw2oYEma6" class="link1">Register Here</a></p>
                   </li>
 
-                  <li> <span class="dropcap_1">12:15<span>29 Dec</span></span>
-                    <p><span class="color1">Feel the Beat</span><br>
-                      ABHYUDAY presents FEET THE BEAT - inter-college dance competition.<br>
-                      <a target="_blank" href="https://forms.gle/CvEj7Ro3B8MhbYFn9" class="link1">Register Here</a></p>
-                  </li>
-
-                  <li> <span class="dropcap_1">14:30<span>29 Dec</span></span>
-                    <p><span class="color1">Hikayat</span><br>
-                      So here we are with our event HIKAYAT where the people can show thier hidden talents. <br>
-                      <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
-                  </li>
-
-                  <li> <span class="dropcap_1">15:00<span>29 Dec</span></span>
+                  <li> <span class="dropcap_1">14:00<span>29 Dec</span></span>
                     <p><span class="color1">Literature Quiz</span><br>
                       So Abhyuday is here to test your knowledge with the event "THE LITERATURE QUIZ". <br>
                       <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
                   </li>
 
-                  <li> <span class="dropcap_1">10:30<span>30 Dec</span></span>
+                  <li> <span class="dropcap_1">16:00<span>29 Dec</span></span>
+                    <p><span class="color1">Hikayat</span><br>
+                      So here we are with our event HIKAYAT where the people can show thier hidden talents. <br>
+                      <a target="_blank" href="https://forms.gle/mMHGZKPrCiSXMzUh6" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">17:30<span>29 Dec</span></span>
                     <p><span class="color1">Nirvana</span><br>
                       We welcome you all to "Nirvana" the solo instrumental music competition.<br>
                       <a target="_blank" href="https://forms.gle/rvhTu7W7zsUzDHss5" class="link1">Register Here</a></p>
                   </li>
 
-                  <li> <span class="dropcap_1">11:00<span>30 Dec</span></span>
+                  <li> <span class="dropcap_1">18:30<span>29 Dec</span></span>
+                    <p><span class="color1">Feel the Beat</span><br>
+                      ABHYUDAY presents FEET THE BEAT - inter-college dance competition.<br>
+                      <a target="_blank" href="https://forms.gle/CvEj7Ro3B8MhbYFn9" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">14:00<span>30 Dec</span></span>
+                    <p><span class="color1">Alankar</span><br>
+                      Alankar, where the soothing voice of our contestants will cherish your souls.<br>
+                      <a target="_blank" href="https://forms.gle/dcTrw6CmtibcWkQk7" class="link1">Register Here</a></p>
+                  </li>
+
+                  <li> <span class="dropcap_1">15:00<span>30 Dec</span></span>
                     <p><span class="color1">Plot Twist</span><br>
                       Abhyuday presents PLOT TWIST, an exciting event. <br>
                       <a target="_blank" href="https://forms.gle/VJTHVvL6iS3PyH8v8" class="link1">Register Here</a></p>
                   </li>
 
-                  <li> <span class="dropcap_1">15:00<span>30 Dec</span></span>
+                  <li> <span class="dropcap_1">ALL<span>Day</span></span>
                     <p><span class="color1">Shutter Up</span><br>
                       Get Ready and start collecting your images because you Definitely don't want to miss this. <br>
                       <a target="_blank" href="https://forms.gle/YAFwf82yv15m4Rni6" class="link1">Register Now</a></p>
                   </li>
 
-                  <li> <span class="dropcap_1">12:00<span>30 Dec</span></span>
+                  <li> <span class="dropcap_1">20:00<span>30 Dec</span></span>
                     <p><span class="color1">Virtual DJ</span><br>
                       <span>Unleash the madness with online virtual DJ.</span><br>
                       <a style="visibility: hidden;" href="#" class="link1">Register Now</a></p>

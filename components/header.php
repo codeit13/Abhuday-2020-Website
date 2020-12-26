@@ -10,5 +10,5 @@
     </ul>
   </nav>
   <h1 style="float: left;"><a href="index.php" id="logo">Abhuday</a></h1>
-  <h1><p class="awesome" style="text-align: center;"> Registrations end on 27th December at 8:00 P.M </p></h1>
+  <h1><p class="awesome" style="text-align: center;"> Registrations end on 28th December at 12:00 P.M </p></h1>
 </header>

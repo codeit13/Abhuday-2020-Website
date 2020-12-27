@@ -7,7 +7,7 @@
   <meta property="og:type" content="video.movie" />
   <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
   <meta property="og:image" content="images/abhuday-2k20.webp" />
-  
+
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -60,7 +60,7 @@
                 <img src="images/gallery/img-15.webp" alt="" id="img15">
                 <img src="images/gallery/img-16.webp" alt="" id="img16">
                 <img src="images/gallery/img-17.webp" alt="" id="img17">
-                <img src="images/gallery/img-18.webp" alt="" id="img18">
+                <img src="images/gallery/img-18.jpeg" alt="" id="img18">
                 <img src="images/gallery/img-19.webp" alt="" id="img19">
                 <img src="images/gallery/img-20.webp" alt="" id="img20">
                 <img src="images/gallery/img-21.webp" alt="" id="img21">
@@ -101,7 +101,7 @@
                 <ul>
                   <li><a href="#img16"><img src="images/gallery/img-16.webp" alt="" width="260" height="171"></a></li>
                   <li><a href="#img17"><img src="images/gallery/img-17.webp" alt="" width="260" height="171"></a></li>
-                  <li><a href="#img18"><img src="images/gallery/img-18.webp" alt="" width="260" height="171"></a></li>
+                  <li><a href="#img18"><img src="images/gallery/img-18.jpeg" alt="" width="260" height="171"></a></li>
                 </ul>
               </dd>
               <dd>

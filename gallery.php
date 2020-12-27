@@ -60,7 +60,7 @@
                 <img src="images/gallery/img-15.webp" alt="" id="img15">
                 <img src="images/gallery/img-16.webp" alt="" id="img16">
                 <img src="images/gallery/img-17.webp" alt="" id="img17">
-                <img src="images/gallery/img-18.jpeg" alt="" id="img18">
+                <img src="images/gallery/img-18.webp" alt="" id="img18">
                 <img src="images/gallery/img-19.webp" alt="" id="img19">
                 <img src="images/gallery/img-20.webp" alt="" id="img20">
                 <img src="images/gallery/img-21.webp" alt="" id="img21">

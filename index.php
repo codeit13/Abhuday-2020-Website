@@ -131,6 +131,12 @@
                       <a target="_blank" href="https://forms.gle/YAFwf82yv15m4Rni6" class="link1">Register Now</a></p>
                   </li>
 
+                  <li> <span class="dropcap_1">18:30<span>30 Dec</span></span>
+                    <p><span class="color1">Musical Eve with Pranay Bahuguna</span><br>
+                      So the final blast of Abhuday 2020 is here.... Pranay Bahuguna is performing live for us.<br>
+                      <a target="_blank" style="visibility: hidden;" class="link1">Enjoy Now</a></p>
+                  </li>
+
                   <li> <span class="dropcap_1">20:00<span>30 Dec</span></span>
                     <p><span class="color1">Virtual DJ</span><br>
                       <span>Unleash the madness with online virtual DJ.</span><br>
@@ -238,6 +244,16 @@
                   Follow us on our Instagram page to keep yourself updated. <a href="https://www.instagram.com/biasphotosociety/">[BIASPHOTOSOCIETY]</a> </p>
                 <ul class="list1 pad_bot1">
                   <li><a target="_blank" href="https://forms.gle/YAFwf82yv15m4Rni6">Register Now</a></li>
+                </ul>
+              </div>
+
+              <div class="wrapper">
+                <figure class="left marg_right1"><a href="#"><img height="292" src="images/events/musical-eve-with-Pranay-bahuguna.jpeg" alt=""></a></figure>
+                <h3>Musical Eve with Pranay Bahuguna</h3>
+                <p class="pad_bot1">
+                  So the final blast of Abhuday 2020 is here....Pranay Bahuguna is performing live for us on 30th December, 2K20 in Abhuday 2020🔥🔥. He is a singer composer who has over 40K subscribers on YouTube and is also a featured singer of one of the biggest music companies of India....The Zee Music Company....here is a short glimpse with which you can have the idea of how this musical eve is gonna be🥳🥳🥳🔥🔥
+                <ul class="list1 pad_bot1">
+                  <li><a target="_blank" style="visibility: hidden;">Enjoy Now</a></li>
                 </ul>
               </div>
 

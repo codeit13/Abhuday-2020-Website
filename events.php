@@ -53,16 +53,17 @@
             <div class="wrapper">
               <div class="cols marg_right1">
                 <figure class="pad_bot1"><a href="pdf/PLOT_TWIST_RULES.pdf" target=_blank><img width="260" src="images/events/plot-twist.webp" alt=""></a></figure>
-                <!-- <figure><a href="#"><img width="260" src="images/events/escape.webp" alt=""></a></figure> -->
+                <figure><a href="pdf/ShutterUp Rules.pdf"><img width="260" src="images/events/shutter-up.webp" alt=""></a></figure>
               </div>
               <div class="cols marg_right1">
-                <figure class="pad_bot1"><a href="https://forms.gle/smeko6ZDUpbUpwUr7"><img width="260" src="images/events/virtual-dj.webp" alt=""></a></figure>
+                <figure class="pad_bot1"><a href=""><img width="260" src="images/events/musical-eve-with-Pranay-bahuguna.jpeg" alt=""></a></figure>
                 <!-- <figure><a href="#"><img width="260" src="images/events/hikayat.webp" alt=""></a></figure> -->
               </div>
               <div class="cols">
-                <figure class="pad_bot1"><a href="pdf/ShutterUp Rules.pdf"><img width="260" src="images/events/shutter-up.webp" alt=""></a></figure>
+                <figure class="pad_bot1"><a href="https://forms.gle/smeko6ZDUpbUpwUr7"><img width="260" src="images/events/virtual-dj.webp" alt=""></a></figure>
                 <!-- <figure><a href="#"><img width="260" src="images/events/nirvana.webp" alt=""></a></figure> -->
               </div>
+
             </div>
           </div>
         </article>

@@ -104,6 +104,15 @@
               <a target="_blank" href="https://forms.gle/dcTrw6CmtibcWkQk7" class="link2">Register Now</a>
             </div>
 
+            <h2><strong>06:30 PM 30 Dec 2020 </strong>Musical eve with Pranay bahuguna</h2>
+            <div class="wrapper pad_bot1">
+              <figure class="left marg_right1"><img width="190" src="images/events/musical-eve-with-Pranay-bahuguna.jpeg" alt=""></figure>
+              <p class="color1 pad_bot1">
+                So the final blast of Abhuday 2020 is here....Pranay Bahuguna is performing live for us on 30th December, 2K20 in Abhuday 2020🔥🔥. He is a singer composer who has over 40K subscribers on YouTube and is also a featured singer of one of the biggest music companies of India....The Zee Music Company....here is a short glimpse with which you can have the idea of how this musical eve is gonna be🥳🥳🥳🔥🔥
+              </p>
+              <a target="_blank" style="visibility: hidden;" href="" class="link2">Enjoy Now</a>
+            </div>
+
             <h2><strong>03:00 PM 30 Dec 2020 </strong>Plot Twist</h2>
             <div class="wrapper pad_bot1">
               <figure class="left marg_right1"><img width="190" src="images/events/plot-twist.webp" alt=""></figure>

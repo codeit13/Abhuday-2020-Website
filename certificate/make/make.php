@@ -18,7 +18,7 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
 
     $certificateId = $timeNow;
     $studentEmailId = $post['email'];
-    $imageName = $certificateId . '.jpg';
+    $imageName = $certificateId . '.png';
     $created_at = $timeNow;
 
     $sql = "INSERT INTO certificates (certificate_id, image, awarded_to, comp_name, comp_date, position, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)";
@@ -41,88 +41,134 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
     if ($res) {
         $nameFont="./Anton-Regular.ttf";
         $textFont="./OpenSans-Regular.ttf";
-        $certificateUsed = "Second.png";
+        $certificateUsed = $position . ".png";
         $font_size = 100;
-        $image=imagecreatefromjpeg('Second.png');
+        $image=imagecreatefrompng($certificateUsed);
         $textColor=imagecolorallocate($image, 19, 21, 22);
         $nameColor=imagecolorallocate($image, 40, 57, 101);
         $certificateIdColor=imagecolorallocate($image, 255, 255, 255);
+
+
+
+
+
+
 
         // Get image Width and Height
         $image_width = imagesx($image);
         $image_height = imagesy($image);
 
-        // Get Bounding Box Size
-        $name_box = imagettfbbox(250, 0, $nameFont, strtoupper($name));
+        // // Get Bounding Box Size
+        // $name_box = imagettfbbox(250, 0, $nameFont, strtoupper($name));
+        //
+        // // Get your Text Width and Height
+        // $name_width = $name_box[2]-$name_box[0];
+        // $name_height = $name_box[7]-$name_box[1];
+        //
+        // // Calculate coordinates of the text
+        // $x = ($image_width/2) - ($name_width/2);
+        // $y = ($image_height/2) - ($name_height/2);
+        //
+        // imagettftext($image, 100, 0, $x, $y-10, $nameColor, $nameFont, strtoupper($name));
+
+
+
+
+        $image_box = imagettfbbox(50, 0, $textFont, $name);
 
         // Get your Text Width and Height
-        $name_width = $name_box[2]-$name_box[0];
-        $name_height = $name_box[7]-$name_box[1];
+        $box_width = $image_box[2]-$image_box[0];
+        $box_height = $image_box[7]-$image_box[1];
 
         // Calculate coordinates of the text
-        $x = ($image_width/2) - ($name_width/2);
-        $y = ($image_height/2) - ($name_height/2);
+        $x = ($image_width/2) - ($box_width/2);
+        $y = ($image_height/2) - ($box_height/2);
 
-        imagettftext($image, 250, 0, $x, $y-10, $nameColor, $nameFont, strtoupper($name));
-
-
-
-
-
-        // $text= 'For achieving ' . $position . ' position in the event ' . $competitionName;
-        //
-        // $text_box = imagettfbbox(50, 0, $textFont, $text);
-        //
-        // // Get your Text Width and Height
-        // $text_width = $text_box[2]-$text_box[0];
-        // $text_height = $text_box[7]-$text_box[1];
-        //
-        // // Calculate coordinates of the text
-        // $x = ($image_width/2) - ($text_width/2);
-        // $y = ($image_height/2) - ($text_height/2);
-        //
-        //
-        //
-        // imagettftextSp($image, 50, 0, $x, $y+250, $textColor, $textFont, $text, 30);
-        //
-        // $nextLine = 'conducted on ' . $competitionDate . '.';
-        //
-        // $newLine_box = imagettfbbox(50, 0, $textFont, $nextLine);
-        //
-        // // Get your Text Width and Height
-        // $newLine_width = $newLine_box[2]-$newLine_box[0];
-        // $newLine_height = $newLine_box[7]-$newLine_box[1];
-        //
-        // // Calculate coordinates of the text
-        // $x = ($image_width/2) - ($newLine_width/2);
-        // $y = ($image_height/2) - ($newLine_height/2);
+        imagettftext($image, 64, 0, $x, $y+135, $nameColor, $nameFont, strtoupper($name));
 
 
 
 
 
 
-        // imagettftextSp($image, 50, 0, $x, $y+350, $textColor, $textFont, $nextLine, 30);
 
-        // imagettftext($image, 43, 0, $x+1370, $y+1150, $certificateIdColor, $textFont, 'Certificate No: ' . $certificateId);
 
-        // imagejpeg($image, "certificate/".$file.".jpg");
-        imagejpeg($image, '../certificates/' . $imageName);
+
+
+        $text_box = imagettfbbox(50, 0, $textFont, $competitionName);
+
+        // Get your Text Width and Height
+        $text_width = $text_box[2]-$text_box[0];
+        $text_height = $text_box[7]-$text_box[1];
+
+        // Calculate coordinates of the text
+        $x = ($image_width/2) - ($text_width/2);
+        $y = ($image_height/2) - ($text_height/2);
+
+        if ($competitionName == 'How to get away with a Murder') {
+            $xDifference = 280;
+            $yDifference = 0;
+        } elseif ($competitionName == 'Literature Quiz') {
+            $xDifference = 20;
+            $yDifference = 0;
+        } elseif ($competitionName == 'Hikayat') {
+            $xDifference = -90;
+            $yDifference = 0;
+        } elseif ($competitionName == 'Nirvana') {
+            $xDifference = -80;
+            $yDifference = 8;
+        } elseif ($competitionName == 'Feel the Beat') {
+            $xDifference = 0;
+            $yDifference = 5;
+        } elseif ($competitionName == 'Alankar') {
+            $xDifference = -90;
+            $yDifference = 5;
+        } elseif ($competitionName == 'Plot Twist') {
+            $xDifference = -60;
+            $yDifference = 5;
+        } elseif ($competitionName == 'Shutter Up') {
+            $xDifference = -40;
+            $yDifference = 0;
+        }
+
+        imagettftext($image, 32, 0, $x+305+$xDifference, $y+265+$yDifference, $nameColor, $nameFont, strtoupper($competitionName));
+
+
+
+
+
+
+
+        imagepng($image, '../certificates/' . $imageName);
         imagedestroy($image);
 
         $json['image'] = $imageName;
         $json['status'] = 'success';
 
-        $file_path = '../certificates/' . $imageName;
-        $file_path_pdf = '../pdfs/' . str_replace('jpg', 'pdf', $imageName);
+        $file_path = 'https://abhuday.birlainstitute.co.in/certificate/certificates/' . $imageName;
+        // $file_path_pdf = '../pdfs/' . str_replace('jpg', 'pdf', $imageName);
 
-        // GENERATE PDF
-        
-        // require('fpdf.php');
-        // $pdf=new FPDF();
-        // $pdf->AddPage();
-        // $pdf->Image($file_path, 0, 0, 210, 150);
-        // $pdf->Output($file_path_pdf, "F");
+        // SEND MAIL
+
+        $subject = "You have been awarded a certificate for Abhuday 2k20 Event";
+
+        $emailMessageContent = $subject;
+
+        $message = "<h1>$emailMessageContent</h1>";
+        $message .= "<h4>Certificate File <img src='$file_path'></h4>";
+
+        $header = "From:admin@birlainstitute.co.in \r\n";
+        // $header .= "Cc:afgh@somedomain.com \r\n";
+        $header .= "MIME-Version: 1.0\r\n";
+        $header .= "Content-type: text/html\r\n";
+
+        $retval = mail($studentEmailId, $subject, $message, $header);
+
+        if ($retval == true) {
+            $json['status'] = "success";
+        } else {
+            $json['status'] = "failed";
+        }
     } else {
         $json['status'] = 'failed';
     }

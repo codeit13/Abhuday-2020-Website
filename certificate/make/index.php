@@ -67,7 +67,17 @@
                     </div>
                     <div class="form-group col-md-12">
                       <label for="competitionName">Competition Name</label>
-                      <input type="text" class="form-control" name="competitionName" id="competitionName" placeholder="Enter the Competition Name" value="" required>
+                      <select class="form-control" id="competitionName" name="competitionName" required>
+                        <option value="Alankar">Alankar</option>
+                        <option value="Plot Twist">Plot Twist</option>
+                        <option value="Shutter Up">Shutter Up</option>
+                        <option value="Feel the Beat">Feel the Beat</option>
+                        <option value="Nirvana">Nirvana</option>
+                        <option value="Hikayat">Hikayat</option>
+                        <option value="Literature Quiz">Literature Quiz</option>
+                        <option value="How to get away with a Murder">How to get away with a Murder</option>
+                      </select>
+                      <!-- <input type="text" class="form-control" name="competitionName" id="competitionName" placeholder="Enter the Competition Name" value="" required> -->
                     </div>
                   </div>
                   <div class="form-row">

@@ -164,11 +164,11 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
 
         $retval = mail($studentEmailId, $subject, $message, $header);
 
-        if ($retval == true) {
-            $json['status'] = "success";
-        } else {
-            $json['status'] = "failed";
-        }
+        // if ($retval == true) {
+        //     $json['status'] = "success";
+        // } else {
+        //     $json['status'] = "failed";
+        // }
     } else {
         $json['status'] = 'failed';
     }

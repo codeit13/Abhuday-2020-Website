@@ -18,6 +18,10 @@
     .form-inline .input-group {
       width: -webkit-fill-available;
     }
+    .form-group > label {
+      font-size: 20px;
+      color: #fff;
+    }
   </style>
 
   <script src="/js/jquery-1.6.js"></script>
@@ -58,7 +62,9 @@
                       <input type="text" class="form-control" id="certificateId" name="certificateId" placeholder="Enter the Certificate Id">
                       <div class="valid-feedback"></div>
                       <div class="invalid-feedback">
-                        Please enter the correct Certificate ID
+                        <b>
+                          Please enter the correct Certificate ID
+                        </b>
                       </div>
                     </div>
                   </div>
@@ -71,7 +77,7 @@
               </div>
               <div class="mt-4">
                 <a id="certificateImageUrl" download>
-                  <img width="450" id="certificateImage" src="/assets/img/certification.svg" class="img-fluid">
+                  <img width="450" id="certificateImage" src="/images/imgs/certification.svg" class="img-fluid">
                   <div class="logs" style="font-size: larger;">
 
                   </div>
@@ -165,8 +171,8 @@
               $('#certificateId').addClass('is-invalid');
 
               $('#certificateImage').attr('width', '450');
-              $('#certificateImage').attr('src', '/assets/img/empty.svg');
-              $('#certificateImageUrl').attr('href', '/assets/img/empty.svg');
+              $('#certificateImage').attr('src', '/images/imgs/empty.svg');
+              $('#certificateImageUrl').attr('href', '/images/imgs/empty.svg');
 
               $('.logs').html(`<h3 class="text-bold text-danger text-center">This Certificate ID does not exists.</h3>`);
             }
@@ -180,8 +186,8 @@
         $('#certificateId').addClass('is-invalid');
 
         $('#certificateImage').attr('width', '450');
-        $('#certificateImage').attr('src', '/assets/img/empty.svg');
-        $('#certificateImageUrl').attr('href', '/assets/img/empty.svg');
+        $('#certificateImage').attr('src', '/images/imgs/empty.svg');
+        $('#certificateImageUrl').attr('href', '/images/imgs/empty.svg');
 
         $('.logs').html(`<h3 class="text-bold text-danger text-center">This Certificate ID does not exists.</h3>`);
       }

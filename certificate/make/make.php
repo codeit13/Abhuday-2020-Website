@@ -21,10 +21,10 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
     $imageName = $certificateId . '.png';
     $created_at = $timeNow;
 
-    $sql = "INSERT INTO certificates (certificate_id, image, awarded_to, comp_name, comp_date, position, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)";
+    $sql = "INSERT INTO certificates (certificate_id, image, awarded_to, comp_name, comp_date, position, created_at, email) VALUES (?, ?, ?, ?, ?, ?, ?, ?)";
     if ($stmt = mysqli_prepare($link, $sql)) {
         // Bind variables to the prepared statement as parameters
-        mysqli_stmt_bind_param($stmt, "sssssss", $certificateId, $imageName, $name, $competitionName, $competitionDate, $position, $created_at);
+        mysqli_stmt_bind_param($stmt, "ssssssss", $certificateId, $imageName, $name, $competitionName, $competitionDate, $position, $created_at, $studentEmailId);
 
         // Attempt to execute the prepared statement
         if ($res = mysqli_stmt_execute($stmt)) {

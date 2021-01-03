@@ -4,9 +4,9 @@
       <div class="icons">
         <h4>Connect With Us</h4>
         <ul id="icons">
-          <li><a href="#" class="normaltip"><img width="20" src="images/youtube.svg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img width="20" src="images/instagram.svg" alt=""></a></li>
-          <li><a href="#" class="normaltip"><img width="20" src="images/facebook.svg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="20" src="/images/youtube.svg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="20" src="/images/instagram.svg" alt=""></a></li>
+          <li><a href="#" class="normaltip"><img width="20" src="/images/facebook.svg" alt=""></a></li>
         </ul>
       </div>
       <div class="info">

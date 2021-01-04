@@ -39,14 +39,12 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
     }
 
     if ($res) {
-        $nameFont="./Anton-Regular.ttf";
+        $nameFont="./OpenSans-Bold.ttf";
         $textFont="./OpenSans-Regular.ttf";
         $certificateUsed = $position . ".png";
         $font_size = 100;
         $image=imagecreatefrompng($certificateUsed);
-        $textColor=imagecolorallocate($image, 19, 21, 22);
-        $nameColor=imagecolorallocate($image, 40, 57, 101);
-        $certificateIdColor=imagecolorallocate($image, 255, 255, 255);
+        $nameColor=imagecolorallocate($image, 219, 68, 55);
 
 
 
@@ -74,7 +72,7 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
 
 
 
-        $image_box = imagettfbbox(50, 0, $textFont, $name);
+        $image_box = imagettfbbox(75, 0, $textFont, $name);
 
         // Get your Text Width and Height
         $box_width = $image_box[2]-$image_box[0];
@@ -84,7 +82,7 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
         $x = ($image_width/2) - ($box_width/2);
         $y = ($image_height/2) - ($box_height/2);
 
-        imagettftext($image, 64, 0, $x, $y+135, $nameColor, $nameFont, strtoupper($name));
+        imagettftext($image, 64, 0, $x, $y+130, $nameColor, $nameFont, strtoupper($name));
 
 
 
@@ -106,32 +104,44 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
         $y = ($image_height/2) - ($text_height/2);
 
         if ($competitionName == 'How to get away with a Murder') {
-            $xDifference = 280;
+            $xDifference = 60;
             $yDifference = 0;
         } elseif ($competitionName == 'Literature Quiz') {
-            $xDifference = 20;
+            $xDifference = 0;
             $yDifference = 0;
         } elseif ($competitionName == 'Hikayat') {
-            $xDifference = -90;
+            $xDifference = 0;
             $yDifference = 0;
         } elseif ($competitionName == 'Nirvana') {
-            $xDifference = -80;
+            $xDifference = 0;
             $yDifference = 8;
         } elseif ($competitionName == 'Feel the Beat') {
             $xDifference = 0;
             $yDifference = 5;
         } elseif ($competitionName == 'Alankar') {
-            $xDifference = -90;
+            $xDifference = 0;
             $yDifference = 5;
         } elseif ($competitionName == 'Plot Twist') {
-            $xDifference = -60;
+            $xDifference = 0;
             $yDifference = 5;
         } elseif ($competitionName == 'Shutter Up') {
-            $xDifference = -40;
+            $xDifference = 0;
             $yDifference = 0;
         }
 
-        imagettftext($image, 32, 0, $x+305+$xDifference, $y+265+$yDifference, $nameColor, $nameFont, strtoupper($competitionName));
+        if($position == 'Co-ordination') {
+          $competitionName = '';
+        } else if(($position == 'Second') || ($position == 'Third'))  {
+          $yDifference = 15;
+        } else {
+          $yDifference = 0;
+        }
+
+        if(($competitionName == 'How to get away with a Murder') && ($position == 'Participation')) {
+          $xDifference = 40;
+        }
+
+        imagettftext($image, 35, 0, $x+$xDifference, $y+325+$yDifference, $nameColor, $nameFont, strtoupper($competitionName));
 
 
 
@@ -149,20 +159,25 @@ if (!empty($post['action']) && $post['action']=="generateCertificate") {
         // $file_path_pdf = '../pdfs/' . str_replace('jpg', 'pdf', $imageName);
 
         // SEND MAIL
+        $url = 'https://script.google.com/macros/s/AKfycbwbd-MdTTGdm2Uzd070RTIy3KXfBwU3LndYCwkREDBSr3VQyMQ/exec?name=' . $name . '&userEmail=' . $studentEmailId . '&id=' . $certificateId . '&certificateUrl=' . $file_path;
+        $jsonData = file_get_contents($url);
 
-        $subject = "You have been awarded a certificate for Abhuday 2k20 Event";
+        $json['apiCall'] = $jsonData;
+        $json['url'] = $url;
 
-        $emailMessageContent = $subject;
+        // $subject = "You have been awarded a certificate for Abhuday 2k20 Event";
 
-        $message = "<h1>$emailMessageContent</h1>";
-        $message .= "<h4>Certificate File <img src='$file_path'></h4>";
+        // $emailMessageContent = $subjec/
 
-        $header = "From:admin@birlainstitute.co.in \r\n";
-        // $header .= "Cc:afgh@somedomain.com \r\n";
-        $header .= "MIME-Version: 1.0\r\n";
-        $header .= "Content-type: text/html\r\n";
+        // $message = "<h1>$emailMessageContent</h1>";
+        // $message .= "<h4>Certificate File <img src='$file_path'></h4>";
+        //
+        // $header = "From:admin@birlainstitute.co.in \r\n";
+        // // $header .= "Cc:afgh@somedomain.com \r\n";
+        // $header .= "MIME-Version: 1.0\r\n";
+        // $header .= "Content-type: text/html\r\n";
 
-        $retval = mail($studentEmailId, $subject, $message, $header);
+        // $retval = mail($studentEmailId, $subject, $message, $header);
 
         // if ($retval == true) {
         //     $json['status'] = "success";

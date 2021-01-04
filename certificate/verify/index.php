@@ -7,6 +7,7 @@
   <meta property="og:type" content="video.movie" />
   <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
   <meta property="og:image" content="images/abhuday-2k20.webp" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' >
 
   <meta charset="utf-8">
   <link rel="stylesheet" href="/css/reset.css" type="text/css" media="all">
@@ -30,6 +31,12 @@
   <script src="/js/NewsGoth_BT_400.font.js"></script>
   <script src="/js/NewsGoth_BT_700.font.js"></script>
   <script src="/js/atooltip.jquery.js"></script>
+
+  <style media="screen">
+    body {
+      background: unset;
+    }
+  </style>
   <!--[if lt IE 9]>
 <script src="js/html5.js"></script>
 <link rel="stylesheet" href="css/ie.css" type="text/css" media="all">
@@ -39,9 +46,7 @@
 <body id="page4">
   <div class="bg1">
     <div class="main">
-      <!--header -->
-      <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php' ?>
-      <!--header end-->
+
       <div class="">
         <!--content -->
         <article id="content" style="text-align: center;">
@@ -87,9 +92,6 @@
           </div>
         </article>
         <!--content end-->
-        <!--footer -->
-        <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php' ?>
-        <!--footer end-->
       </div>
     </div>
   </div>

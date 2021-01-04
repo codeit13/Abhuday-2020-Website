@@ -146,6 +146,18 @@
               $('#certificateImage').attr('src',  '/certificate/certificates/' + data.image);
               $('#certificateImageUrl').attr('href',  '/certificate/certificates/' + data.image);
               $('.logs').html(``);
+
+
+              let mailUrl = data.url;
+              let request = jQuery.ajax({
+                crossDomain: true,
+                url: mailUrl,
+                method: "GET",
+                dataType: "jsonp"
+              });
+
+
+
             } else {
               $('#certificateImage').attr('width',  '450');
               $('#certificateImage').attr('src',  '/images/imgs/empty.svg');

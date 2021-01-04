@@ -7,7 +7,6 @@
   <meta property="og:type" content="video.movie" />
   <meta property="og:url" content="https://www.abhuday.birlainstitute.co.in/" />
   <meta property="og:image" content="images/abhuday-2k20.webp" />
-  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' >
 
   <meta charset="utf-8">
   <link rel="stylesheet" href="/css/reset.css" type="text/css" media="all">
